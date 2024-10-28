@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+.App{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.first-name{
+    margin: 20px;
+    text-align: center;
+}
+.first-name h1{
+    font-size: 70px;
+    letter-spacing: 5px;
+    color: rgb(102, 32, 50);
+    font-family: fantasy;
+}
